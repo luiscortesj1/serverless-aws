@@ -1,0 +1,4 @@
+COMANDO POR CONSOLA
+aws configure - "configurar acceso para aws"
+aws sts get-caller-identity - "responde la informacion del usuario"
+aws lambda list-functions - "listar lambdas"
